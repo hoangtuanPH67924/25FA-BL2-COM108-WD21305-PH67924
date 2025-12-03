@@ -462,4 +462,3 @@ int main()
 	} while (ChonChucNang != 0);
 }
 
-//PH67924 Hoang Anh Tuan
